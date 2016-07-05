@@ -1,7 +1,10 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags: 
-categories: tech
-
+categories: [Tech]
+tags: [Other]
 ---
+
+
+<!--more-->
+
