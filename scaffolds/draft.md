@@ -2,8 +2,7 @@
 title: {{ title }}
 date: {{ date }}
 categories: Tech
-tags: 
-- Other
+tags: Other
 ---
 
 
